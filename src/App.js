@@ -19,7 +19,6 @@ const App = () => {
           <Route path="/experience" element={<Experience />} />
         </Routes>
         <Footer />
-        <p>Hello</p>
       </div>
     </Router>
     
